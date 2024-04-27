@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -46,9 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![6 2](https://github.com/rasika1206/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/124434806/79e7e9ea-86d2-45dc-b388-288e9a51c878)
 
-### Name:
-### Register Number:
+
+### Name: RASIKA M
+### Register Number: 212222230117
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
